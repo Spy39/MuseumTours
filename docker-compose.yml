@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+    museumtours.pgsql:
+        image: postgres:12.4-alpine
+        container_name: pgsql-MT
+        restart: always
+        ports:
+            - "5433:5433"
+        environment:
+            - POSTGRES_PASSWORD=123qwe
+            - POSTGRES_DB=museumtours
+            - PGDATA=/var/lib/postgresql/data/pgdata
+        volumes:
+            - ./docker/db:/var/lib/postgresql/data/pgdata
