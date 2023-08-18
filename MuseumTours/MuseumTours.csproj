@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MuseumTours.Domain\MuseumTours.Domain.csproj" />
     <ProjectReference Include="..\OpticClients.Damain\MuseumTours.Domain.csproj" />
     <ProjectReference Include="..\OpticClients.Damain\OpticClients.Domain.csproj" />
   </ItemGroup>

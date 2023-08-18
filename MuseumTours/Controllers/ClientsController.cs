@@ -19,22 +19,22 @@ namespace MuseumTours.Controllers
             var clients = _context.Clients.ToList();
             var result = new List<ClientTabelDto>();
 
-            foreach (var client in clients)
-            {
-                //var clientTableDto = new ClientTabelDto {
-                //    LastName = client.FirstName,
-                //    FirstName = client.LastName,
-                //    FatherName = client.FatherName,
-                //    Organization = client.Organization,
-                //    Mail = client.Mail,
-                //    Telephone = client.Telephone,
-                //    TourName = client.TourName,
-                //    NumberOfPersons = client.NumberOfPersons,
-                //    ApplicationStatus = client.ApplicationStatus,
-                //    AdditionalInformationt = client.AdditionalInformationt
-                //};
-                result.Add(ClientTabelDto);
-            }
+            //foreach (var client in clients)
+            //{
+            //    //var clientTableDto = new ClientTabelDto {
+            //    //    LastName = client.FirstName,
+            //    //    FirstName = client.LastName,
+            //    //    FatherName = client.FatherName,
+            //    //    Organization = client.Organization,
+            //    //    Mail = client.Mail,
+            //    //    Telephone = client.Telephone,
+            //    //    TourName = client.TourName,
+            //    //    NumberOfPersons = client.NumberOfPersons,
+            //    //    ApplicationStatus = client.ApplicationStatus,
+            //    //    AdditionalInformationt = client.AdditionalInformationt
+            //    //};
+            //    result.Add(ClientTabelDto);
+            //}
             
             return Ok(result);
         }

@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuseumTours", "MuseumTours\MuseumTours.csproj", "{C8613633-77DF-4057-839E-7BE04DC518DC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuseumTours.Domain", "OpticClients.Damain\MuseumTours.Domain.csproj", "{9958FAA8-12DB-4EAE-AC16-CBE61412BB38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MuseumTours.Domain", "MuseumTours.Domain\MuseumTours.Domain.csproj", "{96A8D323-C3B7-46AF-91BB-FF11F4CFE968}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{C8613633-77DF-4057-839E-7BE04DC518DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8613633-77DF-4057-839E-7BE04DC518DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8613633-77DF-4057-839E-7BE04DC518DC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9958FAA8-12DB-4EAE-AC16-CBE61412BB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9958FAA8-12DB-4EAE-AC16-CBE61412BB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9958FAA8-12DB-4EAE-AC16-CBE61412BB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9958FAA8-12DB-4EAE-AC16-CBE61412BB38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A8D323-C3B7-46AF-91BB-FF11F4CFE968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A8D323-C3B7-46AF-91BB-FF11F4CFE968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A8D323-C3B7-46AF-91BB-FF11F4CFE968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A8D323-C3B7-46AF-91BB-FF11F4CFE968}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
