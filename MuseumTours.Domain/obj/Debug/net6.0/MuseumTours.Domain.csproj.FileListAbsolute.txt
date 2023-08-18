@@ -1,0 +1,14 @@
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\bin\Debug\net6.0\MuseumTours.Domain.deps.json
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\bin\Debug\net6.0\MuseumTours.Domain.runtimeconfig.json
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\bin\Debug\net6.0\MuseumTours.Domain.dll
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\bin\Debug\net6.0\MuseumTours.Domain.pdb
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.csproj.AssemblyReference.cache
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.AssemblyInfoInputs.cache
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.AssemblyInfo.cs
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.csproj.CoreCompileInputs.cache
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.dll
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\refint\MuseumTours.Domain.dll
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.pdb
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\MuseumTours.Domain.genruntimeconfig.cache
+C:\Users\shpio\Documents\Visual Studio 2022\source\repos\MuseumTours\OpticClients.Damain\obj\Debug\net6.0\ref\MuseumTours.Domain.dll
