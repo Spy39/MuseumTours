@@ -14,6 +14,7 @@ namespace MuseumTours.Domain
         {
         }
 
+        public DbSet<Application> Applications { get; set; }
         public DbSet<Client> Clients { get; set; }
 		public DbSet<Excursion> Excursions { get; set; }
 

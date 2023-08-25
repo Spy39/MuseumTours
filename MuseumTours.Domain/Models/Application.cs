@@ -11,6 +11,6 @@ namespace MuseumTours.Domain.Models
         public Client Client { get; set; }
         public Excursion Excursion { get; set; }
         public int NumberOfPersons { get; set; }
-        public string ApplicationStatus { get; set; }
+        public string Payment { get; set; }
     }
 }

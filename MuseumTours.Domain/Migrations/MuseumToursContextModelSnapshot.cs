@@ -22,6 +22,39 @@ namespace MuseumTours.Domain.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
+            modelBuilder.Entity("MuseumTours.Domain.Models.Application", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ClientId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("ExcursionId")
+                        .HasColumnType("integer");
+
+                    b.Property<int?>("ExcursionId1")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("NumberOfPersons")
+                        .HasColumnType("integer");
+
+                    b.Property<string>("Payment")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ExcursionId");
+
+                    b.HasIndex("ExcursionId1");
+
+                    b.ToTable("Applications");
+                });
+
             modelBuilder.Entity("MuseumTours.Domain.Models.Client", b =>
                 {
                     b.Property<int>("Id")
@@ -81,6 +114,23 @@ namespace MuseumTours.Domain.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Excursions");
+                });
+
+            modelBuilder.Entity("MuseumTours.Domain.Models.Application", b =>
+                {
+                    b.HasOne("MuseumTours.Domain.Models.Client", "Client")
+                        .WithMany()
+                        .HasForeignKey("ExcursionId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("MuseumTours.Domain.Models.Excursion", "Excursion")
+                        .WithMany()
+                        .HasForeignKey("ExcursionId1");
+
+                    b.Navigation("Client");
+
+                    b.Navigation("Excursion");
                 });
 #pragma warning restore 612, 618
         }

@@ -827,11 +827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\OpticClients.Damain\\MuseumTours.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\MuseumTours.Domain\\MuseumTours.Domain.csproj",
       "projectName": "MuseumTours.Domain",
-      "projectPath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\OpticClients.Damain\\MuseumTours.Domain.csproj",
+      "projectPath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\MuseumTours.Domain\\MuseumTours.Domain.csproj",
       "packagesPath": "C:\\Users\\shpio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\OpticClients.Damain\\obj\\",
+      "outputPath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\MuseumTours.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shpio\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "08/XxBXO1cmxcjpv2HCNMkw+PAiRthoheh5qzlxluFkpbCYTIT7VEZ8/aA8fZuHXeHkGH9v8mnyJ2xHJMg7wIQ==",
+  "dgSpecHash": "e+jiJF9ePW23aFoQnvyr8zeIjmf/TeMDQglmqSIZ1WcAtXyGBy9wSCxctyrgtFCZoL5Cn8T8bNw+hIC92uzOUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\OpticClients.Damain\\MuseumTours.Domain.csproj",
+  "projectFilePath": "C:\\Users\\shpio\\Documents\\Visual Studio 2022\\source\\repos\\MuseumTours\\MuseumTours.Domain\\MuseumTours.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shpio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\shpio\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.16\\microsoft.entityframeworkcore.6.0.16.nupkg.sha512",
